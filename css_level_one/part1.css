@@ -1,0 +1,20 @@
+/*select tag{
+       property: value;
+}*/
+
+h1{
+color: red;
+}
+/* color picker in google */
+h2{
+color : rgb(8, 84,1);
+}
+
+li{
+color : #0895a8 ;
+}
+
+p{
+color : rgba(255, 97,0, 1) /*change last for more dark*/
+
+}
