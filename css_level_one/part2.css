@@ -1,0 +1,19 @@
+body{
+    /*background-color: gray;*/
+    background: url(pexels-photo-2114014.png)
+    /*background-repeat: repeat;*/
+}
+
+div {
+    background: green;
+    border: blue;
+    border-width: 2px; /*medium*/
+    border-style : double ; /*dotted*/
+}
+p {
+color : purple;
+}
+span{
+    background:red;
+    color: black;
+}
