@@ -1,0 +1,41 @@
+/*body{
+    background-image : url(istockphoto-1191343717-170667a.jpg);
+    background-size: 2000px ;
+}
+h1 {
+    border: solid;
+    background-color: green;
+
+}*/
+body{
+    background-image : url(istockphoto-1191343717-170667a.jpg);
+    background-size: 2000px ;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: green;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
